@@ -1,4 +1,4 @@
-### Olá, me chamo Ramiro Dantas :)
+### Olá! Me chamo Ramiro Dantas!
 
 - 🔭 Atualmente trabalhando com desenvolvimento FullStack
 - 🌱 Estou estudando TypeScript, NodeJs, Java, React e Spring Boot
