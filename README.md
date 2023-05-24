@@ -26,8 +26,6 @@ Opa, tudo bem? Como disse acima meu nome é Ramiro Dantas, sou um estudante de e
 </div><br/>
 
 ## Redes Sociais
-
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ramirodantas1)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ramiro-dantas-766908228)
   
 
