@@ -2,7 +2,7 @@
 
 Opa, tudo bem? Como disse acima meu nome é Ramiro Dantas, sou um estudante de engenharia de computação e tenho caminhado para me tornar um grande programador e engenheiro. Desde pequeno sempre fui muito sonhador e esparançoso, infelizmente pude ver que o mundo é um lugar de caos e dor, mas acredito que ele ainda possa se torna um lugar melhor e farei de tudo para ultrapassar cada um dos meus limites e usar da tecnologia para melhorar todo o mundo.
 
-- Desenvolvedor Full Stack (Front-End pricipal stack).
+- Desenvolvedor Full Stack.
 
 ## Algumas informações minhas:
 <div>
