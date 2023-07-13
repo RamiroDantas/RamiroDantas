@@ -1,6 +1,6 @@
 # Olá! Me chamo Ramiro Dantas!
 
-Opa, tudo bem? Como disse acima meu nome é Ramiro Dantas, sou um estudante de engenharia de computação e tenho caminhado para me tornar um grande programador e engenheiro. Desde pequeno sempre fui muito sonhador e esparançoso, infelizmente pude ver que o mundo é um lugar de caos e dor, mas acredito que ele ainda possa se torna um lugar melhor e farei de tudo para ultrapassar cada um dos meus limites e usar da tecnologia para melhorar todo o mundo.
+Opa, tudo bem? Como disse acima meu nome é Ramiro Dantas e sou um estudante de Engenharia da Computação e atualmente tenho caminhado para me tornar um grande Engenheiro e Programador. Desde pequeno sempre fui muito sonhador e esparançoso, tendo sempre como meta tornar o mundo um lugar melhor e acredito que com o avançar da tecnologia isso possa se tornar cada vez mais possível, portanto pretendo usar do meu conhecimento para atingir esse objetivo.
 
 - Desenvolvedor Full Stack.
 
