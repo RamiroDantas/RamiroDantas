@@ -14,7 +14,7 @@ Opa, tudo bem? Como disse acima meu nome é Ramiro Dantas e sou um estudante de 
 
 ## Linguagens
 
-<div style="">
+<div style="display: inline">
   <img align="center" alt="TypeScript" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
   <img align="center" alt="JavaScript" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img align="center" alt="NodeJs" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg"/>
