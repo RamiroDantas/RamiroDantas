@@ -16,7 +16,7 @@ Opa, tudo bem? Como disse acima meu nome é Ramiro Dantas e sou um estudante de 
 
 <table style="border: none;">
   <tr style="border: none;">
-    <td style="border: none;><img height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" /></td>
+    <td style="border: none;"><img height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" /></td>
     <td><img height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /></td>
     <td><img height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" /></td>
     <td><img height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" /></td>
