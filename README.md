@@ -14,7 +14,7 @@ Opa, tudo bem? Como disse acima meu nome é Ramiro Dantas e sou um estudante de 
 
 ## Linguagens
 
-<table>
+<table style="border: none;">
   <tr>
     <td><img height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" /></td>
     <td><img height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /></td>
